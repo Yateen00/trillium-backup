@@ -2,5 +2,5 @@
 /*
 
 # ...Except the backups folder and this config file
-!/backups/
+!/backup/
 !.gitignore

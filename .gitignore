@@ -1,0 +1,6 @@
+# Ignore everything in the main folder...
+/*
+
+# ...Except the backups folder and this config file
+!/backups/
+!.gitignore
